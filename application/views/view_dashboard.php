@@ -362,7 +362,7 @@
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td>Ilham Bagas P.</td>
+                                    <td>Ilham Bagas Prayuda</td>
                                     <td>TI Network</td>
                                     <td>173140714111046</td>
                                 </tr>
