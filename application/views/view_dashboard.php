@@ -356,7 +356,7 @@
                             <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td>Zidane Ramadhan</td>
+                                    <td>Zidane Ramadhan MN.</td>
                                     <td>TI Network</td>
                                     <td>173140714111036</td>
                                 </tr>
