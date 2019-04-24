@@ -374,7 +374,7 @@
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td>Firman Maulana</td>
+                                    <td>Firman</td>
                                     <td>TI Network</td>
                                     <td>173140714111014</td>
                                 </tr>
