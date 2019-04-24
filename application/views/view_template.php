@@ -31,7 +31,7 @@
                 -->
                 <div class="logo">
                     <a href="#" class="simple-text">
-                        UNIVERSITAS BRAWIJAYA
+                        Vokasi UB
                     </a>
                 </div>
                 <div class="sidebar-wrapper">
@@ -39,7 +39,25 @@
                         <li <?php if ($menu=='dashboard'){ echo 'class="active"'; } ?>>
                             <a href="<?php echo base_url() ?>">
                                 <i class="material-icons">dashboard</i>
-                                <p>KLIK INI COY</p>
+                                <p>Dashboard</p>
+                            </a>
+                        </li>
+                        <li <?php if ($menu=='profile'){ echo 'class="active"'; } ?>>
+                            <a href="<?php echo base_url() . 'index.php/pages/profile' ?>">
+                                <i class="material-icons">person</i>
+                                <p>Profil Pengguna</p>
+                            </a>
+                        </li>
+                        <li <?php if ($menu=='table'){ echo 'class="active"'; } ?>>
+                            <a href="<?php echo base_url() . 'index.php/pages/tables' ?>">
+                                <i class="material-icons">content_paste</i>
+                                <p>Daftar Anggota</p>
+                            </a>
+                        </li>
+                        <li <?php if ($menu=='maps'){ echo 'class="active"'; } ?>>
+                            <a href="<?php echo base_url() . 'index.php/pages/maps' ?>">
+                                <i class="material-icons">location_on</i>
+                                <p>Peta</p>
                             </a>
                         </li>
                         <li class="active-pro">
